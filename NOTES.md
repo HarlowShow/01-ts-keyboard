@@ -1,0 +1,5 @@
+- all keys have a corresponding number
+- you can see them at keycode.info
+- HTML data attributes let you make up your own, just prefix them with data-
+- <kbd> element represents keyboard input
+- revisit for template literals on filtering etc.
