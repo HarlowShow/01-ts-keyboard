@@ -1,3 +1,4 @@
+# remember to initialise with 'tsc'
 # eslint-airbnb-base-prettier-typescript-example
 
 > Example app using eslint, prettier, airbnb-base, and typescript
